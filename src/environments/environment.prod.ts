@@ -10,6 +10,6 @@ export const environment = {
     appId: "1:203726153205:web:df90e830579d2e48deecbc"
   },
   keys: {
-  googleMaps: 'AIzaSyBPsDYHOlTPse4dtzDI58PjZvMl9eWLwFM'
+  googleMaps: 'API_KEY'
    }
 };
